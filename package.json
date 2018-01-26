@@ -11,6 +11,6 @@
 		"url": "http://freshgreenmedia.com/"
 	},
 	"dependencies": {
-		"ftp": "~0.3.10"
+		"ftp-srv": "~2.15.0"
 	}
 }
