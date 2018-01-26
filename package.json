@@ -1,0 +1,16 @@
+{
+	"name": "video-projector",
+	"niceName": "Video Projector",
+	"license": "UNLICENSED",
+	"version": "1.0.0",
+	"private": true,
+	"description": "Video Projector",
+	"author": {
+		"name": "Tyler Green",
+		"email": "freshgreenmedia@gmail",
+		"url": "http://freshgreenmedia.com/"
+	},
+	"dependencies": {
+		"ftp": "~0.3.10"
+	}
+}

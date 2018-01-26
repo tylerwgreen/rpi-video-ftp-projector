@@ -1,0 +1,2 @@
+----- Play Video File -----
+omxplayer __FILENAME__
