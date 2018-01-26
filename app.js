@@ -22,11 +22,11 @@ var paths	= {
  * Load and initialize models
  */
 console.log('Load models');
-var FTP			= require(path.join(paths.models, 'FTP'));
+var FTPServer	= require(path.join(paths.models, 'FTPServer'));
 var Projector	= require(path.join(paths.models, 'Projector'));
 
 console.log('Initialize models');
-FTP.init({
+FTPServer.init({
 });
 Projector.init({
 	binDir: paths.bin,
